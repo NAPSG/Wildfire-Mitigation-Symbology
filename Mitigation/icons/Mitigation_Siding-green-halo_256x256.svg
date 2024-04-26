@@ -1,0 +1,34 @@
+<svg id="Bands" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #036;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #00ac3a;
+      }
+
+      .cls-5 {
+        fill: #3ac4ff;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <circle id="BG" class="cls-1" cx="128" cy="128" r="105.281"/>
+  <path id="OuterBand" class="cls-2" d="M128,19.46A108.54,108.54,0,1,1,19.46,128,108.54,108.54,0,0,1,128,19.46Zm0,5.427A103.113,103.113,0,1,1,24.887,128,103.113,103.113,0,0,1,128,24.887Z"/>
+  <path id="ColorBand_GREEN" data-name="ColorBand GREEN" class="cls-3" d="M128,0.14A127.86,127.86,0,1,1,.14,128,127.86,127.86,0,0,1,128,.14Zm0,19.32A108.54,108.54,0,1,1,19.46,128,108.54,108.54,0,0,1,128,19.46Z"/>
+  <g id="Group_1_copy_11" data-name="Group 1 copy 11">
+    <path id="House_copy_26" data-name="House copy 26" class="cls-4" d="M145,36c24.814,27.243,72,79,72,79v4H195v72H61V119H39v-5S54.81,94.964,75,72V52A96.811,96.811,0,0,1,95,41v9l14-14a78.328,78.328,0,0,1,19-2A99.388,99.388,0,0,1,145,36Z"/>
+    <path id="House_copy_27" data-name="House copy 27" class="cls-5" d="M61,118H195v73H61V118Zm19,19h96v35H80V137Z"/>
+  </g>
+</svg>

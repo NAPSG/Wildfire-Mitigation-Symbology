@@ -1,0 +1,31 @@
+<svg id="Bands" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #036;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #ff181e;
+      }
+
+      .cls-4 {
+        fill: #636363;
+      }
+    </style>
+  </defs>
+  <circle id="BG" class="cls-1" cx="128" cy="128" r="105.281"/>
+  <path id="OuterBand" class="cls-2" d="M128,19.46A108.54,108.54,0,1,1,19.46,128,108.54,108.54,0,0,1,128,19.46Zm0,5.427A103.113,103.113,0,1,1,24.887,128,103.113,103.113,0,0,1,128,24.887Z"/>
+  <path id="ColorBand_RED" data-name="ColorBand RED" class="cls-3" d="M128,0.14A127.86,127.86,0,1,1,.14,128,127.86,127.86,0,0,1,128,.14Zm0,19.32A108.54,108.54,0,1,1,19.46,128,108.54,108.54,0,0,1,128,19.46Z"/>
+  <g id="Group_5_copy_6" data-name="Group 5 copy 6">
+    <path id="House_copy" data-name="House copy" class="cls-4" d="M190,130v66H66V130H45v-3s17.571-21.038,36-42V54H98V66s25.211-27.211,26-28a5.46,5.46,0,0,1,8,0c2.258,2.258,79,89,79,89v3H190Z"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg id="Bands_Circle" data-name="Bands Circle" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #036;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #ffd718;
+      }
+    </style>
+  </defs>
+  <circle id="BG" class="cls-1" cx="128" cy="128" r="105.281"/>
+  <path id="OuterBand" class="cls-2" d="M128,19.46A108.54,108.54,0,1,1,19.46,128,108.54,108.54,0,0,1,128,19.46Zm0,5.427A103.113,103.113,0,1,1,24.887,128,103.113,103.113,0,0,1,128,24.887Z"/>
+  <path id="ColorBand_YELLOW" data-name="ColorBand YELLOW" class="cls-3" d="M128,0.14A127.86,127.86,0,1,1,.14,128,127.86,127.86,0,0,1,128,.14Zm0,19.32A108.54,108.54,0,1,1,19.46,128,108.54,108.54,0,0,1,128,19.46Z"/>
+  <g>
+    <path id="arrow" class="cls-4" d="M203,74L169,91V81H85V91L51,74,85,57V67h84V57Z"/>
+    <g id="Road">
+      <g>
+        <path id="Rectangle_16_copy_3" data-name="Rectangle 16 copy 3" class="cls-4" d="M75,103H178l25.632,77.479a92.164,92.164,0,0,1-152.708-1.892Z"/>
+        <path id="Rectangle_16_copy_4" data-name="Rectangle 16 copy 4" class="cls-5" d="M132.954,220.356L133,223H123l0.046-2.644h9.908Zm-0.115-6.612h-9.678l0.345-19.833h8.988Zm-0.483-27.766h-8.712l0.253-14.545H132.1Zm-0.368-21.156h-7.976l0.207-11.9h7.562Zm-0.322-18.511h-7.332l0.207-11.9h6.918ZM131,108l0.137,7.9h-6.274L125,108h6Zm0.367,21.122h-6.734l0.161-9.255h6.412Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
