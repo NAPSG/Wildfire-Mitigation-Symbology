@@ -1,5 +1,5 @@
 # Wildfire Mitigation Symbology
-## Backround
+## background
 The symbol set was developed for the WUI-MF (Wildland Urban Interface – Mitigation Framework), an effort funded through the <a href="https://www.nist.gov/ctl/pscr/funding-opportunities/past-funding-opportunities/psiap-2022">NIST Public Safety Innovation Accelerator Program</a>. Through the PSIAP-2022 award, the JANUS Research Group, Western Fire Chiefs Association (WFCA), Team DSGN, and the Boise Fire Department aimed to improve public safety operations by conveying actionable real-time information to wildfire mitigation staff and provide property owners with knowledge to identify mitigation actions that can reduce their wildfire risk.<br><br>
 The symbols were designed by the JANUS Research Group with guidance from NAPSG’s Symbology Working Group (SWG). They were developed for use in a 3D augmented reality (AR) mobile application environment that leverages artificial intelligence to identify hazards on a structure or parcel. The symbols underwent additional testing for use in 2D mapping applications.<br>
 <br>
